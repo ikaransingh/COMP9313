@@ -1,4 +1,4 @@
 # COMP9313
 
-course work- projects and assignments
+course work- projects
 pyspark, pyspark ML, pyspark SQL
